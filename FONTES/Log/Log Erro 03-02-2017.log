@@ -1,0 +1,63 @@
+Titulo da janela..: Cadastro de Produtos
+Form..............: FrmCadProduto
+Data/Hora.........: 03/02/2017 11:21:58
+Erro..............: Access violation at address 0086F02C in module 'SuperMix.exe'. Read of address 00000000
+
+------------------
+
+Titulo da janela..: Cadastro de Produtos
+Form..............: FrmCadProduto
+Data/Hora.........: 03/02/2017 11:23:51
+Erro..............: Access violation at address 0086F030 in module 'SuperMix.exe'. Read of address 00000000
+
+------------------
+
+Titulo da janela..: Cadastro de Produtos
+Form..............: FrmCadProduto
+Data/Hora.........: 03/02/2017 11:24:03
+Erro..............: SQL Error:  validation error for column COD_PRODUTO, value "*** null ***". Error Code: -625. The insert failed because a column definition includes validation constraints. The SQL: INSERT INTO COMBOS (CODIGO,COD_PRODUTO,DESCRICAO,VALOR,ESTOQUE,CODADICIONAL) VALUES (?,?,?,?,?,?); 
+
+------------------
+
+Titulo da janela..: Cadastro de Produtos
+Form..............: FrmCadProduto
+Data/Hora.........: 03/02/2017 11:44:51
+Erro..............: Access violation at address 0086F068 in module 'SuperMix.exe'. Read of address 00000000
+
+------------------
+
+Titulo da janela..: Cadastro de Produtos
+Form..............: FrmCadProduto
+Data/Hora.........: 03/02/2017 11:45:10
+Erro..............: SQL Error:  validation error for column CODADICIONAL, value "*** null ***". Error Code: -625. The insert failed because a column definition includes validation constraints. The SQL: INSERT INTO COMBOS (CODIGO,COD_PRODUTO,DESCRICAO,VALOR,ESTOQUE,CODADICIONAL) VALUES (?,?,?,?,?,?); 
+
+------------------
+
+Titulo da janela..: Cadastro de Produtos
+Form..............: FrmCadProduto
+Data/Hora.........: 03/02/2017 11:51:42
+Erro..............: Access violation at address 0086F068 in module 'SuperMix.exe'. Read of address 00000000
+
+------------------
+
+Titulo da janela..: Cadastro de Produtos
+Form..............: FrmCadProduto
+Data/Hora.........: 03/02/2017 11:51:48
+Erro..............: Access violation at address 0086F068 in module 'SuperMix.exe'. Read of address 00000000
+
+------------------
+
+Titulo da janela..: Localizar Adicionais
+Form..............: FrmLocAdicionais
+Data/Hora.........: 03/02/2017 15:34:34
+Erro..............: ZAdicionais: Parameter 'PCODIGO' not found
+
+------------------
+
+Titulo da janela..: Cadastro de Combos
+Form..............: FrmCadCombo
+Data/Hora.........: 03/02/2017 15:41:34
+Erro..............: SQL Error:  Dynamic SQL Error SQL error code = -104 Token unknown - line 1, column 72 SELECT. Error Code: -104. Invalid token The SQL: SELECT * FROM ADICIONAIS WHERE DESCRICAO LIKE ? ORDER BY DESCRICAO ASC SELECT * FROM ADICIONAIS WHERE CODIGO=?; 
+
+------------------
+

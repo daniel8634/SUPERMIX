@@ -1,0 +1,21 @@
+Titulo da janela..: Cadastro de Combos
+Form..............: FrmCadCombo
+Data/Hora.........: 06/02/2017 11:27:27
+Erro..............: SQL Error:  Dynamic SQL Error SQL error code = -104 Token unknown - line 1, column 49 SELECT. Error Code: -104. Invalid token The SQL: SELECT * FROM ADICIONAIS ORDER BY DESCRICAO ASC SELECT * FROM ADICIONAIS WHERE CODIGO=?; 
+
+------------------
+
+Titulo da janela..: Cadastro de Combos
+Form..............: FrmCadCombo
+Data/Hora.........: 06/02/2017 11:27:52
+Erro..............: SQL Error:  Dynamic SQL Error SQL error code = -104 Token unknown - line 1, column 49 SELECT. Error Code: -104. Invalid token The SQL: SELECT * FROM ADICIONAIS ORDER BY DESCRICAO ASC SELECT * FROM ADICIONAIS WHERE CODIGO=? SELECT * FROM ADICIONAIS WHERE CODIGO=?; 
+
+------------------
+
+Titulo da janela..: Cadastro de Combos
+Form..............: FrmCadCombo
+Data/Hora.........: 06/02/2017 11:28:20
+Erro..............: SQL Error:  Dynamic SQL Error SQL error code = -104 Token unknown - line 1, column 49 SELECT. Error Code: -104. Invalid token The SQL: SELECT * FROM ADICIONAIS ORDER BY DESCRICAO ASC SELECT * FROM ADICIONAIS WHERE CODIGO=? SELECT * FROM ADICIONAIS WHERE CODIGO=? SELECT * FROM ADICIONAIS WHERE CODIGO=?; 
+
+------------------
+
